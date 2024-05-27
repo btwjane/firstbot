@@ -5,8 +5,3 @@ load_dotenv()
 
 TELEGRAM_TOKEN = os.getenv('API_KEY')
 
-('asdkadka'
- 'asdajdja'
- 'adkadkas'
- 'asd'
- 'ad')
